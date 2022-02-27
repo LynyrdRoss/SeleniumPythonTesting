@@ -1,0 +1,48 @@
+2022-02-28 01:46:52,839 : INFO : test_main_function : Fetching card titles
+2022-02-28 01:46:52,856 : INFO : test_main_function : iphone X
+2022-02-28 01:46:52,865 : INFO : test_main_function : Samsung Note 8
+2022-02-28 01:46:52,874 : INFO : test_main_function : Nokia Edge
+2022-02-28 01:46:52,882 : INFO : test_main_function : Blackberry
+2022-02-28 01:46:53,031 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 01:46:58,208 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-28 02:07:58,972 : INFO : test_main_function : Fetching card titles
+2022-02-28 02:07:58,989 : INFO : test_main_function : iphone X
+2022-02-28 02:07:58,998 : INFO : test_main_function : Samsung Note 8
+2022-02-28 02:07:59,007 : INFO : test_main_function : Nokia Edge
+2022-02-28 02:07:59,016 : INFO : test_main_function : Blackberry
+2022-02-28 02:07:59,159 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 02:08:04,339 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-28 02:16:32,565 : INFO : test_main_function : Fetching card titles
+2022-02-28 02:16:32,580 : INFO : test_main_function : iphone X
+2022-02-28 02:16:32,583 : INFO : test_main_function : Samsung Note 8
+2022-02-28 02:16:32,586 : INFO : test_main_function : Nokia Edge
+2022-02-28 02:16:32,589 : INFO : test_main_function : Blackberry
+2022-02-28 02:16:33,248 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 02:16:38,955 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-28 02:30:14,531 : INFO : test_main_function : Fetching card titles
+2022-02-28 02:30:14,542 : INFO : test_main_function : iphone X
+2022-02-28 02:30:14,546 : INFO : test_main_function : Samsung Note 8
+2022-02-28 02:30:14,549 : INFO : test_main_function : Nokia Edge
+2022-02-28 02:30:14,552 : INFO : test_main_function : Blackberry
+2022-02-28 02:30:15,212 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 02:30:20,905 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-28 02:32:32,851 : INFO : test_main_function : Fetching card titles
+2022-02-28 02:32:32,868 : INFO : test_main_function : iphone X
+2022-02-28 02:32:32,877 : INFO : test_main_function : Samsung Note 8
+2022-02-28 02:32:32,888 : INFO : test_main_function : Nokia Edge
+2022-02-28 02:32:32,899 : INFO : test_main_function : Blackberry
+2022-02-28 02:32:33,047 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 02:32:38,237 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-28 03:01:45,084 : INFO : test_main_function : Fetching card titles
+2022-02-28 03:01:45,102 : INFO : test_main_function : iphone X
+2022-02-28 03:01:45,111 : INFO : test_main_function : Samsung Note 8
+2022-02-28 03:01:45,118 : INFO : test_main_function : Nokia Edge
+2022-02-28 03:01:45,127 : INFO : test_main_function : Blackberry
+2022-02-28 03:01:45,277 : INFO : test_main_function : Inputting country name with ind
+2022-02-28 03:01:51,499 : INFO : test_alert_text : Text received from alert is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
